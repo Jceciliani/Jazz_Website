@@ -1,0 +1,64 @@
+div.links ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+div.links li {
+    float: left;
+}
+
+div.links li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+div.links li a:hover {
+    background-color: #111;
+}
+
+body {
+	background-image: url('https://cdn.wallpapersafari.com/37/54/kToz0c.jpg');
+}
+
+h1 {
+	text-align: center;
+}
+ul {
+	list-style-position:inside;
+}
+
+li {
+	text-align: center;
+	
+	
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+h2 {
+	text-align: center;
+}
+
+div.scroll {
+	width: 75%;
+	height: 220px;
+	overflow: scroll;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.scroll p {
+	text-align: center;
+}
+
+
